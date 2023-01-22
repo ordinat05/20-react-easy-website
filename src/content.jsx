@@ -1,8 +1,8 @@
 
 import React from 'react'
-import './main.css'
+import './content.css'
 
-export default function main() {
+export default function content() {
   return (
     <div>
       <div className="site-info">

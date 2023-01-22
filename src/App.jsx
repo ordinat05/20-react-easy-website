@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import './app.css'
 
 import Header from './header'
-import Main from './main'
+import Content from './content'
 import Footer from './footer'
 
 
@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <Main />
+      <Content />
       <Footer />
     </div>
   )
